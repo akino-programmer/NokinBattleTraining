@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NokinBattleTraining</string>
+    <string name="mainTitle">の〜きん！バトル✖️トレーニング！！</string>
+    <string name="titleName">の〜きん！バトル✖️トレーニング！！</string>
+    <string name="easyMode">EASY</string>
+    <string name="normalMode">NORMAL</string>
+    <string name="hardMord">HARD</string>
+    <string name="back_button">戻る</string>
+    <string name="easyCoronaMonster">イージーモンスター</string>
+    <string name="remainingHp">-</string>
+    <string name="menuStart">スタート！</string>
+    <string name="menuName">メニュー</string>
+    <string name="repeat">✖</string>
+    <string name="times">回数</string>
+    <string name="hp">HP：</string>
+    <string name="maximumHp">-</string>
+    <string name="resultButton">結果へ</string>
+    <string name="actMenulist">行ったメニュー一覧</string>
+    <string name="topButton">TOPへ</string>
+    <string name="hardCoronaMonster">ハードモンスター</string>
+    <string name="hard">HARD</string>
+    <string name="easy">EASY</string>
+    <string name="normalCoronaMonster">ノーマルモンスター</string>
+    <string name="normal">NORMAL</string>
+    <string name="result">RESULT</string>
+</resources>
