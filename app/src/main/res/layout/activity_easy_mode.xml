@@ -31,11 +31,11 @@
         app:srcCompat="@drawable/roomlayout" />
 
     <TextView
-        android:id="@+id/corona_monster_name"
+        android:id="@+id/monster_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
-        android:text="@string/easyCoronaMonster"
+        android:text="@string/easyMonster"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/imageView5"
@@ -187,7 +187,7 @@
         app:layout_constraintBottom_toTopOf="@+id/remaining_hp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/corona_monster_name"
+        app:layout_constraintTop_toBottomOf="@+id/monster_name"
         app:srcCompat="@drawable/easymonster" />
 
 </android.support.constraint.ConstraintLayout>

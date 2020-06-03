@@ -6,7 +6,7 @@
     <string name="normalMode">NORMAL</string>
     <string name="hardMord">HARD</string>
     <string name="back_button">戻る</string>
-    <string name="easyCoronaMonster">イージーモンスター</string>
+    <string name="easyMonster">イージーモンスター</string>
     <string name="remainingHp">-</string>
     <string name="menuStart">スタート！</string>
     <string name="menuName">メニュー</string>
@@ -17,10 +17,10 @@
     <string name="resultButton">結果へ</string>
     <string name="actMenulist">行ったメニュー一覧</string>
     <string name="topButton">TOPへ</string>
-    <string name="hardCoronaMonster">ハードモンスター</string>
+    <string name="hardMonster">ハードモンスター</string>
     <string name="hard">HARD</string>
     <string name="easy">EASY</string>
-    <string name="normalCoronaMonster">ノーマルモンスター</string>
+    <string name="normalMonster">ノーマルモンスター</string>
     <string name="normal">NORMAL</string>
     <string name="result">RESULT</string>
 </resources>
