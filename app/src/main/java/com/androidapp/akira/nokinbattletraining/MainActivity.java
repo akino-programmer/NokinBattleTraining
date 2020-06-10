@@ -19,13 +19,11 @@ public class MainActivity extends AppCompatActivity {
         // ツールバーをアクションバーとしてセット
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
 //
-//        toolbar.setTitle("の〜きん✖︎コロナクエスト！");
-//
 //        setSupportActionBar(toolbar);
 
 //        toolbar.setNavigationIcon(R.drawable.size.);
 //        // アイコンを指定
-//        toolbar.setNavigationIcon(R.drawable.coronamonsterlogo);
+//        toolbar.setNavigationIcon(R.drawable.logo);
 
         Button modeEasy = (Button) findViewById(R.id.easy_mode_button);
         modeEasy.setOnClickListener(new View.OnClickListener(){

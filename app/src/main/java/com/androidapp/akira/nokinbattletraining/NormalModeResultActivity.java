@@ -43,7 +43,7 @@ public class NormalModeResultActivity extends AppCompatActivity {
                 // Intent のインスタンスを取得する（最初の画面）
                 Intent intent = new Intent(NormalModeResultActivity.this, MainActivity.class);
 
-                // HardModeActivity消す
+                // NormalModeActivity消す
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 
                 // MainActivity を再利用する（onCreate() は呼ばれない）
